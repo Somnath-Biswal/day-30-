@@ -1,1 +1,3 @@
 # day-30-
+
+Halfway through the chapter through chapter 3 (caption generation for images) of the book tensorflow for deep learning by packt publication... 
